@@ -11,3 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 <img align="left" alt="Eduardo-Puentes Github Profile" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Puentes&show_icons=true&theme=dark" />
+
+---
+
+<img align="left" alt="Eduardo-Puentes Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/likedin.svg" />
