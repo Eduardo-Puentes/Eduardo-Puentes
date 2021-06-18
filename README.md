@@ -14,8 +14,9 @@
 
 
 
-<br>
 
-[<img align="left" alt="Eduardo-Puentes Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/likedin.svg" target="_blanck"/>][linkedin]
+
+<img align="left" alt="Eduardo-Puentes Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/likedin.svg" target="_blanck"/>
+[linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jos%C3%A9-eduardo-puentes-mart%C3%ADnez-5206491a9/
